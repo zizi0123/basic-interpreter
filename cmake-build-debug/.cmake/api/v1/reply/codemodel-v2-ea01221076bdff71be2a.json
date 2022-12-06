@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "code",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-code-Debug-e974b6a9c674d6640ce8.json",
+					"name" : "code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "score::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-score-Debug-8bfc5ea7bf807550bfdf.json",
+					"name" : "score",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/86180/Desktop/\u7a0b\u5e8f\u8bbe\u8ba1/\u5927\u4f5c\u4e1a/basic_submit/cmake-build-debug",
+		"source" : "/mnt/c/Users/86180/Desktop/\u7a0b\u5e8f\u8bbe\u8ba1/\u5927\u4f5c\u4e1a/basic_submit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
